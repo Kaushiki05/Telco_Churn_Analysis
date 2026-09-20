@@ -4,7 +4,7 @@ An end-to-end data analytics project examining 7,043 subscriber accounts from th
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 * Total Churn Rate: 26.54% (1,869 churned customers out of 7,043).
 * Monthly Revenue at Risk: $139.13K lost monthly due to account cancellations.
 * Primary Drivers: Month-to-month contracts (88.5% of churners) and lack of Tech Support (77.4% of churners).
