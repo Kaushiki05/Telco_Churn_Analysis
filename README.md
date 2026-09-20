@@ -37,7 +37,6 @@ An end-to-end data analytics project examining 7,043 subscriber accounts from th
 
 ```text
 Telco_Churn_Analysis/
-├── assets/                  # Background graphics and UI design assets
 ├── dashboard/               # Power BI report (.pbix) & screenshots
 │   ├── cover_page.png
 │   ├── customer_action_matrix.png
